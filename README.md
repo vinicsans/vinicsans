@@ -4,10 +4,10 @@ Atualmente sou estudante, e gosto muito de programar.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
+<img align="right" width="250" src="https://user-images.githubusercontent.com/87083914/149337366-92e8d9ba-9c2e-48f3-b7a9-25c9a01ffaca.png" />
 
 ```kotlin
-object **Vinicius** {
+object Vinicius {
  val name = "Vinicius Santos"
  val acknowledgements = "Front-End"
  
@@ -28,6 +28,6 @@ object **Vinicius** {
 ## **GitHub Estatísticas**
 
 <a href="https://github.com/vinicsans">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=vinicsans&count_private=true&show_icons=true&theme=tokyonight&line_height=27&hide_border=true" alt="**SEU NOME** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=vinicsans&count_private=true&show_icons=true&theme=tokyonight&line_height=27&hide_border=true" alt="**Vinicius Santos** github stats"/>
 </a>
 
