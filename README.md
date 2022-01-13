@@ -4,7 +4,7 @@ Atualmente sou estudante, e gosto muito de programar.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<img align="right" width="250" src="https://user-images.githubusercontent.com/87083914/149337366-92e8d9ba-9c2e-48f3-b7a9-25c9a01ffaca.png" />
+<img align="right" width="255" src="https://i.pinimg.com/originals/1c/4f/ac/1c4facad627b098885aec6266b8c6c0e.gif" />
 
 ```kotlin
 object Vinicius {
