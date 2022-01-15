@@ -1,6 +1,6 @@
 ### Olá! Eu sou o VARS.
 
-Atualmente sou estudante, e gosto muito de programar.
+Atualmente sou apenas um estudante de programação.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
