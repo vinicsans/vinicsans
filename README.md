@@ -9,7 +9,7 @@ object Vinicius {
  val name = "Vinicius Santos"
  val acknowledgements = "Front-End"
  
- val languages = listOf("Csharp", "Python", "JavaScript", "React") 
+ val languages = listOf("JavaScript") 
 }
 ```
 
