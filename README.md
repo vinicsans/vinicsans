@@ -1,4 +1,4 @@
-### Olá! Eu sou o VARS.
+### Olá! Eu sou o Vinicius.
 
 Atualmente sou apenas um estudante de programação.
 
