@@ -9,7 +9,7 @@ Atualmente sou apenas um estudante de programação.
 ```kotlin
 object Vinicius {
  val name = "Vinicius Santos"
- val acknowledgements = "Front-End"
+ val acknowledgements = "Back-End"
  
  val languages = listOf("JavaScript", "csharp", "python") 
 }
