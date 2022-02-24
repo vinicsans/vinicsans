@@ -10,7 +10,7 @@ Atualmente sou apenas um estudante de programação.
 var Vinicius = {
   name: "Vinicius Santos",
   acknowledgements: "Back-End",
-  languages: ["JavaScript", "csharp", "python"]
+  languages: ["javascript", "python"]
 }
 ```
 
