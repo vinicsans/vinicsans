@@ -1,6 +1,6 @@
-### Olá, eu sou o Vinicius.
+### Olá, sou o Vinicius.
 
-Atualmente sou apenas um estudante de programação.
+Atualmente, sou apenas um estudante de programação.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
