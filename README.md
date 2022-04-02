@@ -4,8 +4,6 @@ Atualmente sou apenas um estudante de programação.
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Mais sobre mim
 
-<img align="right" width="268" src="https://i.pinimg.com/originals/1c/4f/ac/1c4facad627b098885aec6266b8c6c0e.gif" />
-
 ```javascript
 var Vinicius = {
   name: "Vinicius Santos",
