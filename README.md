@@ -7,8 +7,8 @@ Currently, I'm just a programming student.
 ```javascript
 var Vinicius = {
   name: "Vinicius Santos",
-  acknowledgements: "Front-end",
-  languages: ["javascript", "python"]
+  acknowledgements: "Front-end & Mobile",
+  languages: ["javascript", "python", "swift"]
 }
 ```
 
